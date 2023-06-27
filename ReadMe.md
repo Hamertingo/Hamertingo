@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Sobre Mim<br><br>👋 Olá! Eu sou Hamertingo, um programador entusiasmado e apaixonado por Lua. Tenho conhecimento em lua e conhecimento basico em javascript.
+# Sobre Mim<br><br>👋 Olá! Eu sou Hamertingo, um programador que odeia Lua. Tenho conhecimento em lua e conhecimento basico em javascript.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/rQzqRrpzQz) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Hamerti015) 
