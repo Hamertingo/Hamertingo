@@ -1,3 +1,5 @@
+# 💫 About Me:
+# Sobre Mim<br><br>👋 Olá! Eu sou Hamertingo, um programador entusiasmado e apaixonado por Lua. Tenho conhecimento sólido em Lua e também me aventuro um pouco no mundo do JavaScript puro. Adoro desenvolver soluções criativas e eficientes para problemas complexos.<br><br>## Experiência<br><br>- 💻 **Programação em Lua:** Tenho uma vasta experiência no desenvolvimento de aplicativos e scripts utilizando a linguagem Lua. Estou familiarizado com a sintaxe, estruturas de controle, manipulação de tabelas e recursos avançados da linguagem.<br><br>- 🌐 **JavaScript Puro:** Embora meu foco principal seja a programação em Lua, também me aventuro no mundo do JavaScript puro. Tenho conhecimento basico.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/rQzqRrpzQz) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Hamerti015) 
