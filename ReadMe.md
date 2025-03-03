@@ -25,6 +25,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img src="https://img.icons8.com/?size=100&id=sH0rW2TvYdr9&format=png&color=000000" height="40" alt="supabase logo" />
 </div>
 
 ###
