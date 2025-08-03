@@ -8,7 +8,7 @@
 
 <div align="left">
 
-<p align="left">✨ Criando bugs desde 2020<br>📚 Estou aprendendo Next.js e Tailwind CSS<br>🎯 Objetivos: Ter um SaaS de sucesso</p>
+<p align="left">✨ Criando bugs desde 2020<br>📚 Estou aprendendo Vite<br>🎯 Objetivos: Ter um SaaS de sucesso</p>
 
 ###
 
